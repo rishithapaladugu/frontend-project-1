@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.top-section {
+    margin-bottom: 20px;
+}
+
+.image-section {
+    margin-bottom: 20px;
+}
+
+.image-section img {
+    max-width: 400px;
+    height: auto;
+}
+
+.trivia-section ol {
+    list-style-type: decimal;
+}
+
+.trivia-section li {
+    margin-bottom: 5px;
+}
